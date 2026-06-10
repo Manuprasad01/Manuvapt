@@ -97,7 +97,7 @@ root@kali:~$ cat contact.sh
 ╔══════════════════════════════════════════════════════╗
 ║  🌐  https://manuprasad01.github.io                  ║
 ║  💼  linkedin.com/in/manuprasad-k                    ║
-║  📸  https://www.instagram.com/_manuprasad_k        ║
+║  📸  https://www.instagram.com/_manuprasad_k         ║
 ║  📧  manupkm24@gmail.com                             ║
 ╚══════════════════════════════════════════════════════╝
 ```
