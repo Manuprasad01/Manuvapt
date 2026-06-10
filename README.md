@@ -13,7 +13,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-0d1117?style=flat-square&logo=github&logoColor=00ff41&labelColor=161b22&color=21262d)](https://manuprasad01.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22&color=21262d)](https://www.linkedin.com/in/manuprasad-k)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-0d1117?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=161b22&color=21262d)](https://instagram.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-0d1117?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=161b22&color=21262d)](https://www.instagram.com/_manuprasad_k)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22&color=21262d)](mailto:manupkm24@gmail.com)
 
 </div>
@@ -97,7 +97,7 @@ root@kali:~$ cat contact.sh
 ╔══════════════════════════════════════════════════════╗
 ║  🌐  https://manuprasad01.github.io                  ║
 ║  💼  linkedin.com/in/manuprasad-k                    ║
-║  📸  instagram.com/[your_handle]                     ║
+║  📸  https://www.instagram.com/_manuprasad_k        ║
 ║  📧  manupkm24@gmail.com                             ║
 ╚══════════════════════════════════════════════════════╝
 ```
